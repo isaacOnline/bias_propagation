@@ -1,0 +1,9 @@
+[submodule "references/CLIP_prefix_caption"]
+	path = references/CLIP_prefix_caption
+	url = https://github.com/rmokady/CLIP_prefix_caption
+[submodule "references/HAAV"]
+	path = references/HAAV
+	url = https://github.com/GT-RIPL/HAAV
+[submodule "input_data/LabelingPeople"]
+	path = input_data/LabelingPeople
+	url = https://github.com/evanmiltenburg/LabelingPeople/
